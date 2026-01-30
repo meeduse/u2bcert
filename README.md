@@ -17,7 +17,7 @@ The screenshot below illustrates the complete toolchain in action:
 - the execution and state exploration,
 - and the invariant preservation during animation.
 
-![U2Bcert execution overview](docs/u2bcert_execution.png)
+![U2Bcert execution overview](docs/transpiler_execution.png)
 
 ## Proof Statistics
 
